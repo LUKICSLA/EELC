@@ -1,5 +1,4 @@
-# EELC (Electronic Records of Laboratory Exercises)
-
+# About
 An application in which records with the attendance of students for laboratory exercises are stored and managed.
 
 Management means:
@@ -15,3 +14,11 @@ Access to the application is implemented on the basis of the user or username (c
 Based on the logged in user, the application allows you to access only some or all functions and the administrative part.
 
 The application was created in the development environment MS Visual Studio 2017 and was completely localized into the Slovak language together with a brief help implemented as dialog.
+
+# How to launch
+If you want to check the utility just download files in this repo and execute "EELC.exe" file.
+
+# Cloning a repo
+Use Git or checkout with SVN using this URL: `https://github.com/LUKICSLA/EELC.git`
+Use this if you want to clone the repo with SSH: `git@github.com:LUKICSLA/EELC.git`
+Use this if you want to clone the repo with GitHub CLI: `gh repo clone LUKICSLA/EELC`
