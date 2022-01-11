@@ -15,6 +15,9 @@ Based on the logged in user, the application allows you to access only some or a
 
 The application was created in the development environment MS Visual Studio 2017 and was completely localized into the Slovak language together with a brief help implemented as dialog.
 
+# License
+This application is released under Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
 # How to launch
 If you want to check the utility just download files in this repo and execute "EELC.exe" file.
 
