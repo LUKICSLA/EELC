@@ -1,0 +1,42 @@
+C:\Users\MM\Desktop\Nový priečinok\bin\Debug\net461\EELC.exe.config
+C:\Users\MM\Desktop\Nový priečinok\bin\Debug\net461\EELC.exe
+C:\Users\MM\Desktop\Nový priečinok\bin\Debug\net461\EELC.pdb
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.eelc_luki.About.resources
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.eelc_luki.Archive.resources
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.eelc_luki.ChangeLog.resources
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.eelc_luki.CreateEntry.resources
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.eelc_luki.Form1.resources
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.eelc_luki.Setup.resources
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.eelc_luki.UserRegistration.resources
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.csproj.GenerateResource.cache
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.exe
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.pdb
+C:\Users\MM\Desktop\Nový priečinok\obj\Debug\net461\EELC.csprojAssemblyReference.cache
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.csprojAssemblyReference.cache
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.eelc_luki.About.resources
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.eelc_luki.Archive.resources
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.eelc_luki.ChangeLog.resources
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.eelc_luki.CreateEntry.resources
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.eelc_luki.Form1.resources
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.eelc_luki.Setup.resources
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.eelc_luki.UserRegistration.resources
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.csproj.GenerateResource.cache
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.exe
+C:\Users\MM\Desktop\EELC\obj\Debug\net461\EELC.pdb
+C:\Users\MM\Desktop\EELC\bin\Debug\net461\EELC.exe.config
+C:\Users\MM\Desktop\EELC\bin\Debug\net461\EELC.exe
+C:\Users\MM\Desktop\EELC\bin\Debug\net461\EELC.pdb
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\bin\Debug\net461\EELC.exe.config
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\bin\Debug\net461\EELC.exe
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\bin\Debug\net461\EELC.pdb
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.csprojAssemblyReference.cache
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.eelc_luki.About.resources
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.eelc_luki.Archive.resources
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.eelc_luki.ChangeLog.resources
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.eelc_luki.CreateEntry.resources
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.eelc_luki.Form1.resources
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.eelc_luki.Setup.resources
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.eelc_luki.UserRegistration.resources
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.csproj.GenerateResource.cache
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.exe
+C:\Users\MM\Downloads\Maár_Lukáš_projekt_EELC\EELC\obj\Debug\net461\EELC.pdb

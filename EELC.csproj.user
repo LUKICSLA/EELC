@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="eelc_luki\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eelc_luki\Archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eelc_luki\ChangeLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eelc_luki\CreateEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eelc_luki\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eelc_luki\Setup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eelc_luki\UserRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
