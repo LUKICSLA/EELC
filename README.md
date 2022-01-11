@@ -19,6 +19,6 @@ The application was created in the development environment MS Visual Studio 2017
 If you want to check the utility just download files in this repo and execute "EELC.exe" file.
 
 # Cloning a repo
-Use Git or checkout with SVN using this URL: `https://github.com/LUKICSLA/EELC.git`
-Use this if you want to clone the repo with SSH: `git@github.com:LUKICSLA/EELC.git`
-Use this if you want to clone the repo with GitHub CLI: `gh repo clone LUKICSLA/EELC`
+- use Git or checkout with SVN using this URL: `https://github.com/LUKICSLA/EELC.git`
+- use this if you want to clone the repo with SSH: `git@github.com:LUKICSLA/EELC.git`
+- use this if you want to clone the repo with GitHub CLI: `gh repo clone LUKICSLA/EELC`
